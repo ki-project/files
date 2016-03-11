@@ -1,6 +1,6 @@
 (
 [USER]=[(Jhogece)]
-[GRPS]=[user:_getGroups(Jhogece)]
+[GRPS]=[getGroups:_member(Jhogece)]
 [MAINTAINER_OF_REPO_AMOUNT]=[4]
 [MAINTAINED_REPO_A]=[repo-tool]
 [MAINTAINED_REPO_B]=[ki_core]
