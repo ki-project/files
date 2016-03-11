@@ -1,0 +1,7 @@
+(
+[USER]=[(Jhogece)]
+[ORGS]=[_org]
+[REPO]=[repolist:_member(Jhogece)]
+[AVAL]=[getAccess:_member(Jhogece)]
+[MAIL]=[getMail:_member(Jhogece)]
+)

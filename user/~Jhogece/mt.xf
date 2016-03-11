@@ -1,0 +1,13 @@
+(
+[USER]=[(Jhogece)]
+[GRPS]=[user:_getGroups(Jhogece)]
+[MAINTAINER_OF_REPO_AMOUNT]=[4]
+[MAINTAINED_REPO_A]=[repo-tool]
+[MAINTAINED_REPO_B]=[ki_core]
+[MAINTAINED_REPO_C]=[memory-tools]
+[MAINTAINED_REPO_D]=[consciousness-module]
+[MAINTAINER_OF_GROUP_AMOUNT]=[3]
+[MAINTAINED_GROUP_A]=[Member]
+[MAINTAINED_GROUP_B]=[C++]
+[MAINTAINED_GROUP_C]=[Python]
+)

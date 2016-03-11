@@ -1,0 +1,7 @@
+(
+[USER]=[(Exterminatus6000)]
+[ORGS]=[_org]
+[REPO]=[repolist:_member(Exterminatus6000)]
+[AVAL]=[getAccess:_member(Exterminatus6000)]
+[MAIL]=[getMail:_member(Exterminatus6000)]
+)

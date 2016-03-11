@@ -1,0 +1,7 @@
+(
+[USER]=[(xFLLSquadronNorden)]
+[ORGS]=[_org]
+[REPO]=[repolist:_member(xFLLSquadronNorden)]
+[AVAL]=[getAccess:_member(xFLLSquadronNorden)]
+[MAIL]=[getMail:_member(xFLLSquadronNorden)]
+)
